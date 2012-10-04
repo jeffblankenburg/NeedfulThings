@@ -1,0 +1,13 @@
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bin\Debug\resources.pri
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bin\Debug\AppxManifest.xml
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bin\Debug\Needful Things.build.appxrecipe
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\priconfig.xml.intermediate
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\layout.resfiles.intermediate
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\resources.resfiles.intermediate
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\pri.resfiles.intermediate
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\priconfig.xml
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\layout.resfiles
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\resources.resfiles
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\pri.resfiles
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\LanguageQualifiers.txt
+C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bld\Debug\ProjectArchitectures.txt

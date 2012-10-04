@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Hackity</Machine>
+    <WindowsUser>Brian</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>651C1A99EB9F2E602450A045499194F22B82F088A3AA28797065A17C659D9B0D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ae9b9d23-c820-45b8-ba6f-dc2bf24ce99a_1.0.0.0_neutral__gevy8cezwa384</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ae9b9d23-c820-45b8-ba6f-dc2bf24ce99a_gevy8cezwa384!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ae9b9d23-c820-45b8-ba6f-dc2bf24ce99a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Brian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-04T11:34:40.745</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-10-04T11:34:35.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2012-10-04T11:34:35.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2012-10-04T11:34:35.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2012-10-04T11:34:35.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-04-23T20:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-10-04T11:34:35.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-10-04T11:34:35.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2012-10-04T11:34:35.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2012-10-04T11:34:35.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2012-10-04T11:34:35.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2012-10-04T11:34:35.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2012-10-04T11:34:35.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2012-10-04T11:34:35.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-10-04T11:34:35.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian\Documents\GitHub\NeedfulThings\Needful Things\Needful Things\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-04T11:34:40.677</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\">
+      <Name>Microsoft.WinJS.1.0.RC</Name>
+      <Version>1.0.8377.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0.RC, MinVersion=1.0.8377.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\Microsoft.WinJS.1.0.RC.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
