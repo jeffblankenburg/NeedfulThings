@@ -1,0 +1,13 @@
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bin\Debug\resources.pri
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bin\Debug\AppxManifest.xml
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bin\Debug\NeedfulThings.build.appxrecipe
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\priconfig.xml.intermediate
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\layout.resfiles.intermediate
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\resources.resfiles.intermediate
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\pri.resfiles.intermediate
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\priconfig.xml
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\layout.resfiles
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\resources.resfiles
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\pri.resfiles
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\LanguageQualifiers.txt
+c:\users\jeff\documents\visual studio 2012\Projects\NeedfulThings\NeedfulThings\bld\Debug\ProjectArchitectures.txt
